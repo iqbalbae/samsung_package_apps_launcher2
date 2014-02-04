@@ -115,7 +115,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Default launcher application.
+ * Default launcher application. I'm trying to edit this!
  */
 public final class Launcher extends Activity
         implements View.OnClickListener, OnLongClickListener, LauncherModel.Callbacks,
